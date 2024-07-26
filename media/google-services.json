@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "17899760327",
+    "firebase_url": "https://duyen-spa-default-rtdb.firebaseio.com",
+    "project_id": "duyen-spa",
+    "storage_bucket": "duyen-spa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17899760327:android:27e39461c1794c59992ce2",
+        "android_client_info": {
+          "package_name": "duyenspa.ezspa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFfH6zuNy3HfnwqwmEuFto-1BOhYKpeNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
